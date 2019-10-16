@@ -1,0 +1,76 @@
+[33mcommit d5c4aa51488493b540e41a9fe0166eaec0c45495[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;32mlog[m[33m)[m
+Author: Miraxh <miraxh.tereziu@gmail.com>
+Date:   Wed Oct 16 14:00:49 2019 +0200
+
+    test commit
+
+[33mcommit d60d389be20a990888f73e652ddb1e76eb6d4456[m
+Author: Miraxh <miraxh.tereziu@gmail.com>
+Date:   Wed Oct 16 13:43:23 2019 +0200
+
+    commit to the develop branch
+
+[33mcommit 392481b5439f2b87da47b4d14792f842432393c6[m
+Author: Miraxh <miraxh.tereziu@gmail.com>
+Date:   Thu Oct 10 10:02:28 2019 +0200
+
+    test commit tagging
+
+[33mcommit ab7a7d7c56dcdbeb5ebb0011f3ea6fa215d8310f[m[33m ([m[1;33mtag: gitTestV2[m[33m, [m[1;33mtag: gitTestV1[m[33m)[m
+Author: Miraxh <miraxh.tereziu@gmail.com>
+Date:   Thu Oct 10 09:56:59 2019 +0200
+
+    adding test2.txt in the ignore file
+
+[33mcommit 875769c2f35653716015b9309e2e2391c7a666c3[m[33m ([m[1;33mtag: test[m[33m)[m
+Author: Miraxh <miraxh.tereziu@gmail.com>
+Date:   Thu Oct 10 09:56:31 2019 +0200
+
+    deleting test2.txt only on the repo
+
+[33mcommit 3a37913fd7c9e6da9e827cd0224fb13fce0ca446[m
+Author: Miraxh <miraxh.tereziu@gmail.com>
+Date:   Thu Oct 10 09:51:03 2019 +0200
+
+    deleting test.txt
+
+[33mcommit fa7297c2842a70d6102116516902e570d7b10e2c[m
+Author: Miraxh <miraxh.tereziu@gmail.com>
+Date:   Thu Oct 10 09:48:23 2019 +0200
+
+    git ignore
+    
+    i added the gitignore file
+
+[33mcommit bbb631ff8e062ebba1a6de15142d7215c7d1c3e3[m
+Author: Miraxh <miraxh.tereziu@gmail.com>
+Date:   Thu Oct 10 09:41:34 2019 +0200
+
+    Test commit
+    
+    This is a tesf a commit
+    dfsd
+
+[33mcommit 9ed5eeb057231956f3f2384da1a349dd769b9e81[m
+Author: Miraxh <miraxh.tereziu@gmail.com>
+Date:   Thu Oct 10 09:37:13 2019 +0200
+
+    new commit
+
+[33mcommit 579402e969b688907652e31dc4ef070920ee49a1[m
+Author: Miraxh <miraxh.tereziu@gmail.com>
+Date:   Thu Oct 10 09:19:00 2019 +0200
+
+    adding test.txt
+
+[33mcommit f582be1a80900677d41e23b398ce4655a9f92767[m
+Author: Miraxh <miraxh.tereziu@gmail.com>
+Date:   Thu Oct 10 09:17:28 2019 +0200
+
+    3° commit
+
+[33mcommit 56e79386fed88f7dad92e74c3603e13bbc7fa894[m
+Author: Miraxh <miraxh.tereziu@gmail.com>
+Date:   Thu Oct 10 09:08:39 2019 +0200
+
+    second commit
